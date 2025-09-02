@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aflahkm636/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2481-strictly-palindromic-number](https://github.com/aflahkm636/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Simulation
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/aflahkm636/leetcode/tree/master/0909-stone-game) |
+| [2481-strictly-palindromic-number](https://github.com/aflahkm636/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/aflahkm636/leetcode/tree/master/0909-stone-game) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/aflahkm636/leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->

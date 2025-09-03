@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/aflahkm636/leetcode/tree/master/2481-strictly-palindromic-number) |
+## Hash Table
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/aflahkm636/leetcode/tree/master/0782-jewels-and-stones) |
+## String
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/aflahkm636/leetcode/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->

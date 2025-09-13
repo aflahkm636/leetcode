@@ -42,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/aflahkm636/leetcode/tree/master/0782-jewels-and-stones) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/aflahkm636/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/aflahkm636/leetcode/tree/master/0782-jewels-and-stones) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/aflahkm636/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
 |  |
 | ------- |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/aflahkm636/leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/aflahkm636/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/aflahkm636/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/aflahkm636/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->

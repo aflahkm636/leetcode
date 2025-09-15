@@ -42,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/aflahkm636/leetcode/tree/master/0782-jewels-and-stones) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/aflahkm636/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/aflahkm636/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/aflahkm636/leetcode/tree/master/0782-jewels-and-stones) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/aflahkm636/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/aflahkm636/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
 |  |

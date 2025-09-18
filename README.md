@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/aflahkm636/leetcode/tree/master/0136-single-number) |
 | [0909-stone-game](https://github.com/aflahkm636/leetcode/tree/master/0909-stone-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aflahkm636/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Two Pointers
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/aflahkm636/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/aflahkm636/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

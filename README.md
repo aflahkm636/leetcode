@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/aflahkm636/leetcode/tree/master/0136-single-number) |
 | [0909-stone-game](https://github.com/aflahkm636/leetcode/tree/master/0909-stone-game) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/aflahkm636/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aflahkm636/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aflahkm636/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0782-jewels-and-stones](https://github.com/aflahkm636/leetcode/tree/master/0782-jewels-and-stones) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/aflahkm636/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/aflahkm636/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aflahkm636/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/aflahkm636/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0782-jewels-and-stones](https://github.com/aflahkm636/leetcode/tree/master/0782-jewels-and-stones) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/aflahkm636/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/aflahkm636/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3379-score-of-a-string](https://github.com/aflahkm636/leetcode/tree/master/3379-score-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/aflahkm636/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
@@ -71,10 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/aflahkm636/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aflahkm636/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/aflahkm636/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aflahkm636/leetcode/tree/master/0136-single-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/aflahkm636/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->

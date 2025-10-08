@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aflahkm636/leetcode/tree/master/0136-single-number) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/aflahkm636/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0909-stone-game](https://github.com/aflahkm636/leetcode/tree/master/0909-stone-game) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aflahkm636/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aflahkm636/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/aflahkm636/leetcode/tree/master/0136-single-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aflahkm636/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+## Sorting
+|  |
+| ------- |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/aflahkm636/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 <!---LeetCode Topics End-->
